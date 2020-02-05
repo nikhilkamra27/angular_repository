@@ -1,0 +1,8 @@
+https://www.quandl.com/api/v3/datasets/OPEC/ORB.json
+https://primefaces.org/primeng/#/tieredmenu
+https://github.com/eswaribala/rps_boancr_angular_feb2020/blob/master/onlinebanking02022020.zip
+https://github.com/nikhilkamra27/angular_repository
+https://app.netlify.com/teams/nikhilkamra27/sites
+https://material.angular.io/components/button/overview
+https://material.io/resources/icons/?icon=book&style=baseline
+https://daimalerblog2019-cf.cfapps.io/findboauserbyname/prishita
